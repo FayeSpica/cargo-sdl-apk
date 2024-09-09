@@ -31,5 +31,5 @@ project, cd into it and run `cargo sdl-apk build` or `cargo sdl-apk run`.
 
 ## tested version
 * RUST 1.67.0 (high version breaks)
-* ANDROID_NDK 27
+* ANDROID_NDK 26
 * ANDROID_SDK 26
