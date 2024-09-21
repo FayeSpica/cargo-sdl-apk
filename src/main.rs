@@ -95,8 +95,6 @@ fn build_android(
 
     let targets=vec![
     	"aarch64-linux-android",
-    	"armv7-linux-androideabi",
-    	"i686-linux-android"
     ];
 
     build_sdl_for_android(&targets,build_profile);
